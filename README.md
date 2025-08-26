@@ -9,7 +9,8 @@
 I am a passionate software engineer with a strong interest in modern web technologies like React, Node.js, and Django. I have completed my B.Tech from <b>SVNIT Surat</b>.
 </p>
 
-- 📫 How to reach me: **sahildhameja13@gmail.com**
+- 📫 How to reach me: **sahildhameja13@gmail.com**  
+- 📄 My Resume: [Download Resume](https://example.com/your-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
