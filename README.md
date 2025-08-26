@@ -12,13 +12,6 @@ I am a passionate software engineer with a strong interest in modern web technol
 - 📫 How to reach me: **sahildhameja13@gmail.com**  
 - 📄 My Resume: [Download Resume](https://drive.google.com/file/d/1dJBZOQ1gVMAAwrWc6aSy4M0KGv9FCqYq/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahil-dhameja/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Priority icons first -->
