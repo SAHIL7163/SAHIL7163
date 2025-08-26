@@ -10,7 +10,7 @@ I am a passionate software engineer with a strong interest in modern web technol
 </p>
 
 - 📫 How to reach me: **sahildhameja13@gmail.com**  
-- 📄 My Resume: [Download Resume](https://example.com/your-resume.pdf)
+- 📄 My Resume: [Download Resume](https://drive.google.com/file/d/1dJBZOQ1gVMAAwrWc6aSy4M0KGv9FCqYq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
